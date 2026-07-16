@@ -2,6 +2,10 @@
 
 Portfólio oficial da **DHR Web Studio**, criado para apresentar serviços, projetos, planos e canais de contato da marca.
 
+## Site publicado
+
+https://dansleyhr13.github.io/site-dhr-web-studio/
+
 ## Sobre o projeto
 
 O site reúne:
