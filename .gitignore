@@ -1,0 +1,26 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporários e registros
+*.tmp
+*.temp
+*.log
+~$*
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+
+# Materiais de criação que não fazem parte do site publicado
+Artes de divulgação/
+Logos DHR Web Studio/
+*.ai
+Ativo 6.png
